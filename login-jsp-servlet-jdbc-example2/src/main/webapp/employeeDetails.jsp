@@ -42,6 +42,6 @@ String employeeContact = request.getAttribute("contact").toString();
     </tr>
    </table>
    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-<a href="employeeRegister.jsp" class="btn btn-outline-primary">Back to Registration</a>
+&nbsp;<a href="employeeRegister.jsp" class="btn btn-primary">Continue to new Registration</a>
 </body>
 </html>
